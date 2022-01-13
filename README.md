@@ -1,6 +1,8 @@
 # M2_climat_MAR
 Computing climate trends over the Alps with MAR forced by ERA-20C
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mmenegoz/M2_climat_MAR/HEAD)
+
 1. General description:
 
 Downloading MAR data to investigate climate trends over the Alps.
