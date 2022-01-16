@@ -1,6 +1,20 @@
 # M2_climat_MAR
 Computing climate trends over the Alps with MAR forced by ERA-20C
 
+This folder contain the french course from Martin Ménégoz, about climate modelling activities over mountainous areas.
+
+The students are invited to read the two open-acess articles based on MAR experiments:
+
+Beaumet, J., Ménégoz, M., Gallée, H., Fettweis, X., Morin, S., Six, D., Vincent, C., Wilhelm, B. and Anquetin, S., Twentieth century temperature and snow cover changes in the French Alps using a high-resolution regional climate model and reanalyses, Reg Environ Change 21, 114 (2021), https://doi.org/10.1007/s10113-021-01830-x
+
+Ménégoz, M., Valla, E., Jourdain, N. C., Blanchet, J., Beaumet, J., Wilhelm, B., Gallée, H., Fettweis, X., Morin, S., and Anquetin, S., 2020: Contrasting seasonal changes in total and intense precipitation in the European Alps from 1903 to 2010, Hydrol. Earth Syst. Sci., 24, 5355–5377, https://doi.org/10.5194/hess-24-5355-2020
+
+The students can use this binder session to create a python notebook to compute seasonal trends of temperature and precipitation over the Alps, using the MAR data available at:
+
+**renater depository**
+
+A zenodo repository with a more complete set of variables is also available there: https://zenodo.org/record/3674607#.YeNknmAo_OR
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mmenegoz/M2_climat_MAR/HEAD)
 
 1. General description:
