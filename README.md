@@ -31,6 +31,10 @@ For this we will use several classic Python packages:
 
 Check the Environment section at the end of this README if you want to know more about the environment and/or to install it on your local machine.
 
+2. Script
+
+MAR_alpine_climate_trends.ipynb is a basic script from which you can start working on the MAR data. You can use ot or not depending on your skill in python. Fell free to use any other of your favorite software!
+
 3. Environment
 
 Note that we will be working with an already pre-installed environment with binder. If you want to install the same environment on your machine, you can do it directly by typing the command conda env create -f environment.yml using the environment file environment.yml from this repository (only functional under Linux, otherwise you can remove the xesmf package from the file for Windows). You need to have Anaconda or Minconda already pre-installed on your machine. If not, for Linux users, you can check this (steps 2, 3, and 4; the rest is to install it on a server — to adapt for non-Linux machines): https://mickaellalande.github.io/post/tutorial/how-to-install-jupyter-notebook-on-a-server/. For managing your conda environments always come back to the official documentation: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file.
