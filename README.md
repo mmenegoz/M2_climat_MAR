@@ -17,6 +17,8 @@ The students can use this binder session to create a python notebook to compute 
 
 A zenodo repository with a more complete set of variables is also available there: https://zenodo.org/record/3674607#.YeNknmAo_OR
 
+The script can be used to compute trends over different periods: the last century, the last decade(s), checking the statistical significance of the trend depending the dependency to the signal to noise ratio for different sub-periods.
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mmenegoz/M2_climat_MAR/HEAD)
 
 1. General description:
