@@ -11,7 +11,8 @@ Ménégoz, M., Valla, E., Jourdain, N. C., Blanchet, J., Beaumet, J., Wilhelm, B
 
 The students can use this binder session to create a python notebook to compute seasonal trends of temperature and precipitation over the Alps, using the MAR data available at:
 
-**renater depository**
+**Temperature data: https://filesender.renater.fr/?s=download&token=a6240b77-15ba-45e2-8f16-98f4b1045069** (January 2022)
+Precipitation and snow cover data could be shared also on this repository.
 
 A zenodo repository with a more complete set of variables is also available there: https://zenodo.org/record/3674607#.YeNknmAo_OR
 
@@ -33,7 +34,9 @@ Check the Environment section at the end of this README if you want to know more
 
 2. Script
 
-MAR_alpine_climate_trends.ipynb is a basic script from which you can start working on the MAR data. You can use ot or not depending on your skill in python. Fell free to use any other of your favorite software!
+MAR_alpine_climate_trends.ipynb is a basic script from which you can start working on the MAR data. You can use it ot or not depending on your skill in python. Fell free to use any other of your favorite software!
+
+The package https://zenodo.org/record/4458780#.YeSjVGAo_OQ could be used to compute the statistical significance of the trends with the Mann Kendall criteria with more efficiency.
 
 3. Environment
 
