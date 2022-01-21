@@ -12,6 +12,7 @@ Ménégoz, M., Valla, E., Jourdain, N. C., Blanchet, J., Beaumet, J., Wilhelm, B
 The students can use the binder session (link below) to create a python notebook, to compute seasonal trends of temperature and precipitation over the Alps, using the MAR data available at:
 
 **Temperature data: https://filesender.renater.fr/?s=download&token=a6240b77-15ba-45e2-8f16-98f4b1045069** (January 2022)
+** Second test for temperature data: https://filesender.renater.fr/?s=download&token=937943e4-a210-4c47-af01-564793bd78bc
 
 **Precipitation and snow cover data can be downloaded at: https://filesender.renater.fr/?s=download&token=b0befae8-08e3-4285-9fa3-34fbba05675b** (January 2022)
 
